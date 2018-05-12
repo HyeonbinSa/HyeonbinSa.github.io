@@ -16,6 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
+baseurl: /
 url: https://hyeonbinsa.github.io
 # your url: http://USERNAME.github.io
 
@@ -58,13 +59,8 @@ authors:
         bio: Hyeonbin Sa Test
         external-image: false
         picture: assets/images/coffee_blk.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/home_capstone.jpg
-        twitter: jamesfoster
+
+
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -72,8 +68,8 @@ authors:
 width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
-# paginate: 5
-# paginate_path: "blog/:num/"
+paginate: 10
+paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
@@ -108,4 +104,4 @@ plugins:
   - jekyll-admin
 
 jekyll-mentions:
-    base_url: /
+    base_url: https://github.com
