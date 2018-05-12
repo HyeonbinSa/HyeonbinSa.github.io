@@ -5,7 +5,7 @@
                 <a class="link" href="{{ site.url }}/">Home</a>
             </li>
         {% endif %}
-        
+
          {% if site.about == true %}
             {% if page.title != "About" %}
                 <li class="item">
@@ -29,9 +29,11 @@
                 </li>
             {% endif %}
         {% endif %}
+                <li class="item">
+                  <a class="link" href="{{ site.url }}/categories">Category</a>
+                </li>
 
-                 
-            
+
         {% if site.teaching == true %}
             {% if page.title != "Teaching" %}
                 <li class="item">
@@ -39,6 +41,6 @@
                 </li>
             {% endif %}
         {% endif %}
-                
+
     </ul>
 </nav>
