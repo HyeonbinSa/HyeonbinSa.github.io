@@ -1,6 +1,6 @@
 # main text of home
-name: Niveditha Ram
-bio: 'Physics, Teaching, Engineering.'
+name: Hyeonbin Sa
+bio: 'hi HIHI'
 
 # twitter summary info
 description: A blog about Physics and teaching science
@@ -12,7 +12,8 @@ picture: 'assets/images/profile.jpg'
 
 # url: http://artiannaswamy.com
 # your url: http://USERNAME.github.io
-
+url: http://HyeonbinSa.github.io
+baseurl: /
 permalink: /:title/
 
 markdown: kramdown
@@ -33,7 +34,7 @@ twitter: NivedithaRam
 #linkedin: artiannaswamy
 # youtube: myyoutube
 # spotify: myspotify
-github: NivedithaRam
+github: HyeonbinSa
 # medium: medium
 email: niveditha.ramasubramanian@stonybrook.edu
 
