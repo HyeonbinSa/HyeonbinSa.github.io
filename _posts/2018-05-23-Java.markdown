@@ -9,7 +9,7 @@ category: Blog
 # - components
 # - extra
 blog: true
-draft: true
+draft: false
 author: HyeonbinSa
 summary: "Java란 문엇인가."
 permalink: markdown-extra-components
