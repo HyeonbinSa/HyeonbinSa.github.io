@@ -7,7 +7,7 @@ tag: good
 # - markdown
 # - elements
 blog: true
-draft: true
+draft: false
 author: artiannaswamy
 summary: "A list of the most common markdown elements and how they look"
 permalink: markdown-common-elements
