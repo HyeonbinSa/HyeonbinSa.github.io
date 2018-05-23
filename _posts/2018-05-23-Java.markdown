@@ -2,6 +2,8 @@
 title: "Java"
 layout: post
 date: 2018-05-23 20:48
+tag: good
+category: Blog
 # tag:
 # - markdown
 # - components
