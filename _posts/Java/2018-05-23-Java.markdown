@@ -12,12 +12,12 @@ blog: true
 draft: false
 author: HyeonbinSa
 summary: "Java란 문엇인가."
-permalink: markdown-extra-components
+permalink: /java/java
 ---
 
 ## Summary:
 
-You can pick as item to see how to apply in markdown.
+Java의 내용
 
 #### Especial Elements
 - [Evidence](#evidence)
